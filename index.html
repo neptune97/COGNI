@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Biblioteca de Poderes</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Despertar</h1>
+    <h2>Biblioteca de Poderes do RPG</h2>
+
+    <label for="classe">Filtrar por Classe:</label>
+    <select id="classe">
+        <option value="Todos">Todos</option>
+        <option value="Angelical">Angelical</option>
+        <option value="Elemental">Elemental</option>
+        <option value="Bélico">Bélico</option>
+        <option value="Investigador">Investigador</option>
+        <option value="Vigarista">Vigarista</option>
+        <!-- Adicione mais opções de classe -->
+    </select>
+
+    <label for="busca">Buscar Poderes:</label>
+    <input type="text" id="busca" placeholder="Nome ou Custo de SP">
+
+    <div id="poderes"></div>
+
+    <h2>Coleção de Poderes</h2>
+    <ul id="colecao"></ul>
+
+    <script src="script.js"></script>
+</body>
+</html>

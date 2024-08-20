@@ -1,0 +1,204 @@
+{
+  "poderes": [
+    {
+      "nome": "Toque da Graça",
+      "nivel": 1,
+      "classe": ["Angelical, Elemental, Bélico"],
+      "custoSP": 1,
+      "geracaoSP": 1,
+      "descrição": "Permite ao personagem curar um Dado Psíquico de HP de um único personagem que tocar."
+    },
+    {
+      "nome": "Aura de Cura",
+      "nivel": 2,
+      "classe": ["Angelical, Elemental, Bélico"],
+      "custoSP": 2,
+      "geracaoSP": 2,
+      "descrição": "Cria uma aura ao redor do personagem que cura um Dado Psíquico de HP de 1d4 aliados por 1d4 por turno"
+    },
+    {
+      "nome": "Escudo Protetor",
+      "nivel": 2,
+      "classe": ["Angelical, Elemental, Bélico"],
+      "custoSP": 1,
+      "geracaoSP": 1,
+      "descrição": "Cria um escudo psíquico que absorve um Dado Psíquico de dano por 1d4 turnos"
+    },
+    {
+      "nome": "Escudo Protetor",
+      "nivel": 3,
+      "classe": ["Angelical, Elemental, Bélico"],
+      "custoSP": 3,
+      "geracaoSP": 2,
+      "descrição": "Concede um bônus de +2 em Rolagens de Estado para um aliado por 1d4 turnos"
+    },
+    {
+      "nome": "Purificação",
+      "nivel": 3,
+      "classe": ["Angelical, Elemental, Bélico"],
+      "custoSP": 3,
+      "geracaoSP": 2,
+      "descrição": "Remove efeitos negativos e cura condições debilitantes de um aliado"
+    },
+    {
+      "nome": "Inspiração",
+      "nivel": 4,
+      "classe": ["Angelical, Elemental, Bélico"],
+      "custoSP": 4,
+      "geracaoSP": 2,
+      "descrição": "Concede um bônus de +3 em qualquer rolagem de dados a todos os aliados por 1d6 turnos/ações"
+    },
+    {
+      "nome": "Renovação",
+      "nivel": 4,
+      "classe": ["Angelical, Elemental, Bélico"],
+      "custoSP": 4,
+      "geracaoSP": 2,
+      "descrição": "Restaura completamente o HP de um aliado e 3 SP"
+    },
+    {
+      "nome": "Ordem dos Serafins",
+      "nivel": 5,
+      "classe": "Angelical",
+      "custoSP": 5,
+      "geracaoSP": 3,
+      "descrição": "Emite uma grande onda curadora, que restaura um Dado Psíquico de vida de todos os aliados e renova 2 SP"
+    },
+    {
+      "nome": "Aceleração Quântica",
+      "nivel": 1,
+      "classe": ["Angelical, Bélico, Vigarista"],
+      "custoSP": 1,
+      "geracaoSP": 1,
+      "descrição": "Aumenta a velocidade do próprio corpo em um Dado Psíquico por 1d4 turnos."
+    },
+    {
+      "nome": "Golpe Psíquico",
+      "nivel": 1,
+      "classe": ["Angelical, Bélico, Vigarista"],
+      "custoSP": 1,
+      "geracaoSP": 1,
+      "descrição": "Desfere um golpe psíquico que causa um Dado Psíquico mais um Dado Físico de dano em um único alvo."
+    },
+    {
+      "nome": "Deslocamento",
+      "nivel": 2,
+      "classe": ["Angelical, Bélico, Vigarista"],
+      "custoSP": 2,
+      "geracaoSP": 2,
+      "descrição": "Move-se instantaneamente até 10 metros em linha reta"
+    },
+    {
+      "nome": "Impacto",
+      "nivel": 2,
+      "classe": ["Angelical, Bélico, Vigarista"],
+      "custoSP": 2,
+      "geracaoSP": 2,
+      "descrição": "Desfere um soco psíquico que causa dois Dados Psíquicos mais um Dado Físico de dano a um único alvo."
+    },
+    {
+      "nome": "Manifestação",
+      "nivel": 3,
+      "classe": ["Angelical, Bélico, Vigarista"],
+      "custoSP": 3,
+      "geracaoSP": 2,
+      "descrição": "Pode escolher entre materializar um objeto que causa dois Dados Psíquico de dano instantâneo ou uma arma de sua escolha, que causa dois Dados Psíquicos de dano por 1d4 turnos"
+    },
+    {
+      "nome": "Comando",
+      "nivel": 3,
+      "classe": ["Angelical, Bélico, Vigarista"],
+      "custoSP": 4,
+      "geracaoSP": 2,
+      "descrição": "Manipula a ordem do turno de um dos seus aliados, concedendo +10 de velocidade por 1d4 turnos"
+    },
+    {
+      "nome": "Camuflagem",
+      "nivel": 4,
+      "classe": ["Angelical, Bélico, Vigarista"],
+      "custoSP": 4,
+      "geracaoSP": 2,
+      "descrição": "Disfarça-se como um objeto inanimado por até 1 hora."
+    },
+    {
+      "nome": "Sobrecarga Cognitiva",
+      "nivel": 5,
+      "classe": "Bélico",
+      "custoSP": 5,
+      "geracaoSP": 3,
+      "descrição": "O excesso de pensamentos gera um curto circuito na sua cabeça, liberando uma poderosa onda psíquica que causa três Dados Físicos em uma área de 5 metros."
+    },
+    {
+      "nome": "Bola de Fogo",
+      "nivel": 1,
+      "classe": ["Elemental, Angelical, Investigador"],
+      "custoSP": 1,
+      "geracaoSP": 1,
+      "descrição": "Lança uma bola de fogo que causa um Dado Psíquico de dano de fogo em um alvo."
+    },
+    {
+      "nome": "Escudo de Gelo",
+      "nivel": 1,
+      "classe": ["Elemental, Angelical, Investigador"],
+      "custoSP": 1,
+      "geracaoSP": 1,
+      "descrição": "Cria um escudo de gelo que absorve um Dado Físico de dano por 1d4 turnos."
+    },
+    {
+      "nome": "Tempestade Elétrica",
+      "nivel": 2,
+      "classe": ["Elemental, Angelical, Investigador"],
+      "custoSP": 2,
+      "geracaoSP": 2,
+      "descrição": "Invoca uma tempestade elétrica em qualquer ponto que possa ver, causando dois Dados Psíquicos de dano em todos os inimigos."
+    },
+    {
+      "nome": "Onda de Calor",
+      "nivel": 3,
+      "classe": ["Elemental, Angelical, Investigador"],
+      "custoSP": 3,
+      "geracaoSP": 2,
+      "descrição": "Cria uma onda de calor que tem 60% de chance de deixar todos os inimigos incapacitados por 1d4 turnos"
+    },
+    {
+      "nome": "Teahupoo",
+      "nivel": 3,
+      "classe": ["Elemental, Angelical, Investigador"],
+      "custoSP": 3,
+      "geracaoSP": 2,
+      "descrição": "Cria uma onda psíquica que tem 80% de chance de incapacitar todos os inimigos por 1d4 turnos"
+    },
+    {
+      "nome": "Lança de Gelo",
+      "nivel": 4,
+      "classe": ["Elemental, Angelical, Investigador"],
+      "custoSP": 4,
+      "geracaoSP": 2,
+      "descrição": "Cria uma lança de gelo que perfura um único alvo, causando dois Dados Psíquicos mais um dado Físico de dano."
+    },
+    {
+      "nome": "Tempestade de Plasma",
+      "nivel": 4,
+      "classe": ["Elemental, Angelical, Investigador"],
+      "custoSP": 4,
+      "geracaoSP": 2,
+      "descrição": "Invoca uma tempestade de plasma em qualquer ponto que possa ver que causa quatro Dados Psíquicos de dano sobre todos os alvos. Chance de 80% de incapacitar os inimigos por 1d4 turnos"
+    },
+    {
+      "nome": "Inferno",
+      "nivel": 5,
+      "classe": "Elemental",
+      "custoSP": 4,
+      "geracaoSP": 2,
+      "descrição": "Invoca uma explosão massiva de fogo que causa cinco Dados Psíquicos de dano em um raio de 10 metros, atingindo todas as criaturas que estiverem na área. Chance de 60% de incapacitar os atingidos por 1d4 turnos"
+    },
+    {
+      "nome": "Retina",
+      "nivel": 1,
+      "classe": ["Investigador, Vigarista, Elemental"],
+      "custoSP": 1,
+      "geracaoSP": 0,
+      "descrição": "Permite ao personagem perceber pistas ocultas ou sinais em um raio de 10 metros em troca de 1 SP"
+    }
+  ]
+}
